@@ -1,0 +1,13 @@
+langchain
+langchainhub
+bs4
+tiktoken
+boto3==1.34.37
+langchain-community
+faiss-cpu==1.8.0
+python-dotenv
+groq
+langchain-groq
+awscli
+pypdf
+streamlit

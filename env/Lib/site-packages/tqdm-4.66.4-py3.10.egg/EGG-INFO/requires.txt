@@ -1,0 +1,16 @@
+colorama
+
+[dev]
+pytest>=6
+pytest-cov
+pytest-timeout
+pytest-xdist
+
+[notebook]
+ipywidgets>=6
+
+[slack]
+slack-sdk
+
+[telegram]
+requests

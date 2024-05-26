@@ -1,0 +1,13 @@
+prefix=C:/github/openai/llmops/env/Library
+exec_prefix=C:/github/openai/llmops/env/Library
+libdir=C:/github/openai/llmops/env/Library/lib
+sharedlibdir=C:/github/openai/llmops/env/Library/lib
+includedir=C:/github/openai/llmops/env/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
